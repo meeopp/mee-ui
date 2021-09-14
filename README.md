@@ -1,1 +1,3 @@
-# mee-ui
+# MeeUI
+
+Boilerplate for MeeUI!
